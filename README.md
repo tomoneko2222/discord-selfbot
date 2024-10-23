@@ -1,3 +1,3 @@
 # discord-selfbot
 
-https://github.com/tomoneko2222/discord-selfbot/blob/main/image.png?raw=true
+https://github.com/tomoneko2222/discord-selfbot/blob/main/image.png
